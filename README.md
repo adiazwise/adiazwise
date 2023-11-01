@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Projects implementing DesignPatterns](https://github.com/adiazwise/CustomerAPI)
 
-- 🌱 I'm currently learning **Docker,AKS,Microservices**
+- 🌱 I'm currently learning **Docker,AKS,Microservices,React**
 
 - 📝 I regularly write articles on [https://dev.to/learnwithandres](https://dev.to/learnwithandres)
 
