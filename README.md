@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Díaz</h1>
 <h3 align="center">A passionate Net Backend Developer from Dominican Republic</h3>
 
-- 🔭 I’m currently working on [Projects implementing DesignPatterns](https://github.com/adiazwise/CustomerAPI)
+- 🔭 I’m currently working on [React JS and React Native]
 
 - 🌱 I'm currently learning **Docker,AKS,Microservices,React**
 
