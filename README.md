@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NET,React JS,React Native]
 
-- 🌱 I'm currently learning **LangChain**
+- 🌱 I'm currently learning **Gen AI | AWS BedRock**
 
 - 📝 I regularly write articles on [https://dev.to/learnwithandres](https://dev.to/learnwithandres)
 
